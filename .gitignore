@@ -28,3 +28,6 @@ benchmarks/graphs
 
 #IDE
 .idea
+
+#Config
+.env
